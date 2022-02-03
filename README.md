@@ -11,6 +11,7 @@ A collection of over 140 payment method logos. The logos are free to use for com
 | ![](assets/card-icons/card_diners_club.svg) | Diners |
 | ![](assets/card-icons/card_jcb.svg) | JCB |
 | ![](assets/card-icons/card_cartes_bancaires.svg) | Cartes bancaires |
+
 There are additional credit card logos in the repository.
 
 ## Wallets
