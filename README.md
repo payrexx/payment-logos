@@ -31,7 +31,6 @@ There are additional credit card logos in the repository.
 | ![](assets/card-icons/card_postfinance_card.svg)     | Postfinance Card      |
 | ![](assets/card-icons/card_postfinance_efinance.svg) | Postfinance E-Finance |
 | ![](assets/card-icons/card_swisscom-pay.svg)         | Swisscom Pay          |
-| ![](assets/card-icons/card_bob-invoice.svg)          | Bob Invoice           |
 | ![](assets/card-icons/card_wirpay.svg)               | WIR                   |
 | ![](assets/card-icons/card_reka.svg)                 | REKA                  |
 | ![](assets/card-icons/card_centi.svg)                | Centi                 |
